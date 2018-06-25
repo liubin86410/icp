@@ -6,13 +6,13 @@
 
 阿里云 App 核验操作流程如下：
 
-1.  在 [阿里云备案系统](http://beian.aliyun.com/) 填写备案信息到上传资料环节，选择**使用阿里云 APP 上传**。
+1.  在 [阿里云备案系统](http://beian.aliyun.com/) 填写备案信息到上传资料环节，选择 **使用阿里云 APP 上传**。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14218/5482_zh-CN.jpg)
 
-2.  下载、安装阿里云 App 后，用阿里云 App 扫描电脑端上传资料页面**使用阿里云 APP 上传**下您的备案订单二维码。
+2.  下载、安装阿里云 App 后，用阿里云 App 扫描电脑端 上传资料 页面 **使用阿里云 APP 上传** 下您的备案订单二维码。
 
-    方法一：打开手机阿里云 App，单击**控制台** \> **网站备案** \> **扫描订单二维码** 。
+    方法一：打开手机阿里云 App，单击 **控制台** \> **网站备案** \> **扫描订单二维码** 。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14218/5489_zh-CN.png)
 
@@ -28,7 +28,7 @@
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14218/5492_zh-CN.jpg)
 
-5.  返回电脑端，单击**核对已上传资料**。核对无误后，将备案申请提交审核。
+5.  返回电脑端，单击 **核对已上传资料**。核对无误后，将备案申请提交审核。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14218/5493_zh-CN.jpg)
 
