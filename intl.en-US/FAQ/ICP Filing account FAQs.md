@@ -38,7 +38,7 @@ The procedure is as follows:
     If you forget your account ID or password for the HiChina platform, you can click to [ICP Filing Account Email Initialization](https://beian.aliyun.com/account/changeLoginName.htm) or [Password Retrieval](https://beian.aliyun.com/account/find_pwd?spm=a3c00.7621318.a3c20.5.v2Fcab) to find back your account name or password.
 
 
-For more information, see [ICP Filing system FAQs](intl.en-US/FAQ/ICP Filing system FAQs.md#).
+For more information, see [ICP Filing system FAQs](intl.en-US/FAQ/Alibaba Cloud ICP Filing system FAQs.md#).
 
 ## What can I do if I forget my logon ID of the old HiChina ICP Filing system? {#section_mhf_kds_zdb .section}
 
