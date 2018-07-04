@@ -39,7 +39,7 @@ You can associate an Alibaba Cloud ECS instance \(with public network bandwidth 
 
 -   For OSS, you must apply for an ICP Filing with the MIIT. If you already have an ICP Filing, it is not required to be transferred to Alibaba Cloud.
 
--   For CDN, you must apply for an ICP Filing with the MIIT. If the source site of your website is in Alibaba Cloud, you must apply for an ICP Filing through Alibaba Cloud. If you already have an ICP Filing, you must transfer it to Alibaba Cloud. For more information. see [Transfer an ICP Filing](../../../../intl.en-US/ICP Filing Procedures/Transfer an ICP license to Alibaba Cloud and cancel an transfer.md#).
+-   For CDN, you must apply for an ICP Filing with the MIIT. If the source site of your website is in Alibaba Cloud, you must apply for an ICP Filing through Alibaba Cloud. If you already have an ICP Filing, you must transfer it to Alibaba Cloud. For more information. see [Transfer an ICP Filing](../../../../intl.en-US/ICP Filing Procedures/Transfer an ICP license to Alibaba Cloud.md#).
 
 
 ## I already have an ICP Filing. Must I apply for a new one if I have my website hosted through an Alibaba Cloud ECS instance? {#section_sw5_x3s_zdb .section}
