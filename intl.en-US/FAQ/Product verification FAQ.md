@@ -22,7 +22,7 @@ For more server-related issues, see [Alibaba Cloud server FAQs](intl.en-US/FAQ/E
 
 [Why are the buttons not displayed on my page?](intl.en-US/FAQ/Buttons on ICP Filing system/Why are the buttons not displayed on my page?.md#)
 
-[Domain name FAQs](intl.en-US/FAQ/Domain Name.md#)
+[Domain name FAQs](intl.en-US/FAQ/Domain name FAQs.md#)
 
 [Subject and website information FAQs](intl.en-US/FAQ/Subject and website information FAQs.md#)
 
