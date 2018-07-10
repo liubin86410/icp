@@ -5,9 +5,9 @@ ICP Filing is a license issued by the Ministry of Industry and Information Techn
 Two types of Filing:
 
 -   ICP Filing:  known in Chinese as “Bei’An”, is the first level of ICP certification. All websites hosted in mainland China must be ICP filed with the Ministry of Industry and Information Technology \(MIIT\).  Alibaba Cloud ECS instance and CDN users apply for an ICP Filing number through [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/).
--   ICP Commercial License: known as “ICP Zheng” in Chinese, allows online platforms or third-party sellers of goods and services to deploy their website on a hosting server or CDN within mainland China.  To apply for an ICP Commercial License, you must first obtain an ICP Filing. You must apply for an ICP Commercial License from the local authorities.
+-   ICP Commercial License: known as “ICP Zheng” in Chinese, allows online platforms or third-party sellers of products and services to deploy their websites on hosting servers or use CDN within mainland China. To apply for an ICP Commercial License, you must first obtain an ICP Filing. You must apply for an ICP Commercial License from the local authorities.
 
-Transfer an ICP license to Alibaba Cloud: If you have obtained an ICP license for a domain name with another server provider, and now you want to bind the domain name or the sub-domains with Alibaba Cloud servers, you must transfer the ICP Filing license to Alibaba Cloud.
+Transfer an ICP license to Alibaba Cloud: If you have obtained an ICP license for a domain name with a service provider other than Alibaba Cloud, and now you want to bind the domain name or the sub-domains with Alibaba Cloud servers, you must transfer the ICP Filing license to Alibaba Cloud.
 
 Modify ICP Filing information: Change the recorded information of the ICP Filing subject or the websites.
 
