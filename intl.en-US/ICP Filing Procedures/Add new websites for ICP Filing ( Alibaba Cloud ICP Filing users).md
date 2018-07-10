@@ -7,7 +7,7 @@ The ICP Filing subject, once filed ICP records through Alibaba Cloud, now has a 
 1.  Log on to the [ICP Filing System](https://beian.aliyun.com/) \(only available in Chinese\).
 2.  Click **Add Website**.
 
-    If the button is not displayed, it may because you already have an ICP Filing order in process. You must finish that order or withdraw it before submitting another application.You can abandon the currently in progress filing order or wait for the filing order to pass the review.
+    If the button is not displayed, it may because you already have an ICP Filing order in process. You must finish that order or withdraw it before submitting another application. You can abandon the currently in progress filing order or wait for the filing order to pass the review.
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/5767_en-US.jpg)
 
@@ -39,17 +39,17 @@ The ICP Filing subject, once filed ICP records through Alibaba Cloud, now has a 
 
     For more information, see [Document uploading FAQs](../../../../intl.en-US/FAQ/Document uploading FAQs.md#section_cfv_rbt_zdb).
 
-7.  After Alibaba Cloud review, the person in charge of the website must take a picture as required and upload it for verification.
+7.  After your filing information passes Alibaba Cloud review, the person in charge of the website must take a picture as required and upload it for verification.
 
     You can apply for an Alibaba Cloud ICP Filing backdrop on the Photo page. The website administrator takes a picture in front of the backdrop and upload the picture. Do not wear in red or blue when taking the picture.
 
-    Note for Shanghai users: Shanghai Communications Administration requires that ICP Filing applicants in Shanghai must use Shanghai Communications Administration app \(Available in Chinese only\) to verity the website administrator.  For more information, see [Using Shanghai communications administration app to verify the website administrator](intl.en-US/ICP Filing Procedures/Using Shanghai Communications Administration app to verify the website administrator.md#)。
+    Note for Shanghai users: Shanghai Communications Administration requires that ICP Filing applicants in Shanghai must use Shanghai Communications Administration app \(only available in Chinese\) to verity the website administrator. For more information, see [Using Shanghai communications administration app to verify the website administrator](intl.en-US/ICP Filing Procedures/Using Shanghai Communications Administration app to verify the website administrator.md#)。
 
 8.  Verify the mobile phone number of the subject and website administrators. Currently, mobile phone verification is required by Tianjin, Gansu, Tibet, Ningxia, Hainan, Xinjiang, and Qinghai. Other provinces do not require mobile phone number verification.
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/5690_en-US.jpg)
 
-    If you apply for ICP Filing in these regions, you will receive a text message \(in Chinese\) from the MIIT in five minutes after you get a message and email from Alibaba Cloud.
+    If you apply for ICP Filing in these regions, you will receive a text message \(in Chinese\) from the MIIT in five minutes after you get a message and an email from Alibaba Cloud.
 
     **You must follow the message to verify your mobile phone number within 48 hours.  If you have not finish the verification in 48 hours, your ICP Filing application will be rejected**.
 
